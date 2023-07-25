@@ -1,0 +1,21 @@
+body{
+  display:flex; 
+  flex-direction:column; 
+  justify-content:center;
+  min-height:100vh;
+}
+
+input{
+  display: block;
+  margin: auto;
+}
+
+table{
+  border-collapse: collapse;
+  border: 1px solid black;
+  margin: 5px auto;
+}
+
+th, td{
+  border: 1px solid black;
+}
